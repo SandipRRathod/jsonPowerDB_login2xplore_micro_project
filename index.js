@@ -1,4 +1,4 @@
-const jpdbBaseURL = "https://cors-anywhere.herokuapp.com/http://api.login2explore.com:5577";
+const jpdbBaseURL = "http://api.login2explore.com:5577";
 const jpdbIML = "/api/iml";
 const jpdbIRL = "/api/irl";
 const dbName = "SCHOOL-DB";
