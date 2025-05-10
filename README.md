@@ -77,6 +77,9 @@ The following features are included in this project:
 
 - **Completed**: The project has been successfully developed and deployed. All functionalities related to saving, updating, and retrieving student records using JsonPowerDB have been implemented and are fully operational.
 - **Final Version**: All features have been implemented as per the requirements, and no further updates are planned.
+- **Issue In Base URL Of DB (CORS)**:
+When trying to make API requests to the JsonPowerDB backend (http://api.login2explore.com:5577), you might face a **CORS (Cross-Origin Resource Sharing)** issue. This occurs because browsers block requests made from one domain (your frontend) to another (the backend) unless the backend allows it by including proper CORS headers.
+ 
 
 ---
 
@@ -90,17 +93,15 @@ The following features are included in this project:
 ## ℹ **Other Information**
 
 - **Tech Stack**:
-  - **Backend**: JsonPowerDB, Node.js, Express
+  - **Backend**: JsonPowerDB
   - **Frontend**: HTML, CSS, JavaScript, jQuery
-- **License**: MIT License
-- **Contributions**: Contributions are welcome! Feel free to fork and submit a pull request.
 
 ---
 
 ### 📧 **Contact**
 
 For more information, you can reach out to:
-- **Email**: your.email@example.com
+- **Email**: sandiprathod2667@gmail.com
 
 ---
 
